@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
   lxpod lib LXPodLib.
                        DESC
 
-  s.homepage         = 'https://git.iflytek.com/CBG_LX/IOS_GitTest'
+  s.homepage         = 'https://git.iflytek.com/CBG_LX/ViaFlyIOSCocoapodLibs'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'gootaoo' => 'gootaoo@foxmail.com' }
-  s.source           = { :git => 'git@git.iflytek.com:CBG_LX/IOS_GitTest.git', :tag => s.version.to_s }
+  s.source           = { :git => 'git@git.iflytek.com:CBG_LX/ViaFlyIOSCocoapodLibs.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
